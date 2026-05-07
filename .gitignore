@@ -84,3 +84,6 @@ test_resume_output.pdf
 # User-generated documents
 *.pdf
 !docs/**/*.pdf
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
